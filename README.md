@@ -24,22 +24,19 @@ fundamental building block for a **Sigma–Delta Modulator**.
 ## Integrator Schematic
 The CMOS integrator schematic designed using Cadence Virtuoso.
 
-![Integrator Schematic](images/integrator_schematic.png)
+<img width="1397" height="791" alt="image" src="https://github.com/user-attachments/assets/094aaff5-e90a-4c0d-bff2-02b75eb1584b" />
+
 
 ## Integrator Symbol / Testbench
 Testbench used to verify the integrator operation.
 
-![Integrator Testbench](images/integrator_testbench.png)
+<img width="1398" height="790" alt="image" src="https://github.com/user-attachments/assets/3fa2e484-2e02-46e0-adc9-f6cb19a718a0" />
+
 
 ## Simulation Results
 Transient simulation results of the CMOS integrator.
 
-![Integrator Simulation](images/integrator_simulation.png)
-
-## Transient and AC Analysis
-Transient response and AC frequency response of the integrator.
-
-![Transient and AC Analysis](images/integrator_transient_ac.png)
+<img width="1398" height="788" alt="image" src="https://github.com/user-attachments/assets/eadd4c00-7549-4c10-9116-e094f92822dc" />
 
 ## Tools Used
 - Cadence Virtuoso (Analog Design Environment)
